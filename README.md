@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Dio Dart Challenge BMI Calculator
+
+This is a simple terminal program built in Dart Language, which calculates your BMI, using data you enter.
